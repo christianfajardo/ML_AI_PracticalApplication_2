@@ -30,6 +30,11 @@ This project focuses on analyzing used car prices in the US, leveraging Ridge an
   - Ridge and Lasso regression models were applied, with hyperparameter tuning to identify optimal `alpha` values.
   - Recursive Feature Elimination (RFE) was used to rank features based on their importance.
 
+- **Final Report**:
+  - Final report based in dataset and models
+  - Project Overview
+
+
 ---
 
 ## Visualizations
@@ -78,7 +83,6 @@ This project focuses on analyzing used car prices in the US, leveraging Ridge an
 - **Model Refinement**:
   - Experiment with advanced regression techniques or ensemble models to capture more complex patterns.
   - Explore Permutation Importance and analyze results
-
 
 ---
 
