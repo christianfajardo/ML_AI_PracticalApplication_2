@@ -88,4 +88,19 @@ This project focuses on analyzing used car prices in the US, leveraging Ridge an
 - `images/`: Contains images
 - `README.md`: Project documentation.
 
+---
+
+## How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/username/used-car-pricing-analysis.git
+   ```
+
+2. Install Python, NumPy, Pandas, Scikit Learn, Matplotlib, and Seaborn Plot dependencies.
+   
+3. Load and run all `prompt_II.ipynb` cells in VSCode or any Jupyter editor of your choice.
+
+
+
 
